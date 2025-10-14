@@ -51,7 +51,7 @@ source venv/bin/activate
 Instale todas as bibliotecas necessárias com o seguinte comando:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 **6. Inicie o Painel de Controle**
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 Execute o script principal do dashboard:
 
 ```bash
-python dashboard.py
+python3 dashboard.py
 ```
 
 ## Acessando o Painel
